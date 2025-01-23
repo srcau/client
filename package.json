@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "author": "Saqib Rasool",
+  "license": "ISC",
+  "description": "Shimmer client for creating a new account, receiving tokens, and transferring tokens to another account",
+  "dependencies": {
+    "@iota/sdk": "^1.1.5",
+    "dotenv": "^16.4.7"
+  }
+} 
